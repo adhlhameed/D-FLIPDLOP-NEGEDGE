@@ -57,7 +57,6 @@ else
 Q <= D;
 endmodule
 ```
-
 **RTL LOGIC FOR FLIPFLOPS**
 ![exp8](https://github.com/adhlhameed/D-FLIPDLOP-NEGEDGE/assets/168260238/fb4d4630-dfeb-4b88-a6f1-815e460de1ef)
 
